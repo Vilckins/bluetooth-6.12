@@ -1,0 +1,1 @@
+savedcmd_/home/denis/bluetooth-6.12/btusb.ko := x86_64-linux-gnu-ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/denis/bluetooth-6.12/btusb.ko /home/denis/bluetooth-6.12/btusb.o /home/denis/bluetooth-6.12/btusb.mod.o /home/denis/bluetooth-6.12/.module-common.o

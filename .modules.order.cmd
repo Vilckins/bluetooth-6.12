@@ -1,0 +1,1 @@
+savedcmd_/home/denis/bluetooth-6.12/modules.order := {   echo /home/denis/bluetooth-6.12/btusb.o;   echo /home/denis/bluetooth-6.12/ath3k.o;   echo /home/denis/bluetooth-6.12/btrtl.o; :; } > /home/denis/bluetooth-6.12/modules.order
